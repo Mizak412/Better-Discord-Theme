@@ -1,0 +1,23 @@
+/**
+* @name Mizak412 Theme
+* @version Auto Update
+* @description Made by Mizak412 Yt#9998, Inspired by Dark Matter.
+* @author Mizak412
+* @invite TeRQEPb
+* @Source https://github.com/DiscordStyles/DarkMatter/
+* @website https://betterdiscord.app/theme/Dark%20Matter
+*/
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--background-image: url('https://i.imgur.com/WEwrWG9.png');
+--home-image: url('https://i.imgur.com/EDJyzN3.png');
+--avatar-size: 32px;
+--accent: 37,172,232;
+--accent-alt: 29,101,134;
+--background-solid: #161921;
+--background-solid-dark: #101218;
+--background-solid-darker: #0c0e12;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+}
